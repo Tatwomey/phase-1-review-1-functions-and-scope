@@ -4,8 +4,14 @@
  * Your code goes here
  */
 
-// Deliverable # 2 - Write the code to invoke (call) your "sum" function.
+function bakeCookies(){
+    console.log("Mix ingredients..")
+    console.log("Bake for 1 hour")
+    console.log("All done! Ready to eat - yum yum")
+}
 
+// Deliverable # 2 - Write the code to invoke (call) your "sum" function.
+bakeCookies()
 /*
  * Your code goes here
  */
